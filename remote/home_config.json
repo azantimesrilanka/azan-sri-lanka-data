@@ -2,7 +2,7 @@
   "enabled": true,
   "version": 2,
   "date": "2026-08-28",
-  "startTime": "12:00 PM",
+  "startTime": "12:00 AM",
   "endTime": "11:59 PM",
   "title": "TEST UPDATE",
   "message": "GitHub Quick Update Working!",
