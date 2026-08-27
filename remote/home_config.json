@@ -11,12 +11,11 @@
   "messageImage": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/main/remote/images/message.jpg",
   "showMessage": true,
 
-  
   "emergency": {
     "enabled": true,
-    "version": 1,
+    "version": 2,
     "date": "2026-08-27",
-    "startTime": "8:05 PM",
+    "startTime": "8:10 PM",
     "endTime": "9:00 PM",
     "title": "Hilal is Sighted",
     "message": "Ramazan Mubarak"
