@@ -1,8 +1,24 @@
 {
   "enabled": true,
   "version": 1,
+  "date": "2026-08-27",
+  "startTime": "6:00 PM",
+  "endTime": "10:00 PM",
   "title": "Assalamu Alaikum",
   "message": "May Allah bless your day.",
   "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/main/remote/images/home_background.jpg",
-  "showMessage": true
+  "transparency": 50,
+  "messageImage": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/main/remote/images/message.jpg",
+  "showMessage": true,
+
+  
+  "emergency": {
+    "enabled": true,
+    "version": 1,
+    "date": "2026-08-27",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "title": "Emergency Message",
+    "message": "Important announcement for users."
+  }
 }
