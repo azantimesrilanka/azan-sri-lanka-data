@@ -11,7 +11,7 @@
   "messageImage": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/main/remote/images/message.jpg",
   "showMessage": true,
   "emergency": {
-  "enabled": true,
+  "enabled": false,
   "version": 3,
   "date": "2026-08-28",
   "startTime": "12:00 AM",
