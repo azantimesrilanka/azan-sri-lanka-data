@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "version": 3,
+  "version": 1,
   "date": "",
-  "startDate": "",
-  "endDate": "",
+  "startDate": "2026-09-04",
+  "endDate": "2026-09-04",
   "startTime": "",
   "endTime": "",
   "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/ramadan.jpg",
