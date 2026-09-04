@@ -7,7 +7,7 @@
   "startTime": "",
   "endTime": "",
   "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/ramadan.jpg",
-  "transparency": 90,
-  "blendMode": "multiply",
+  "transparency": 50,
+  "blendMode": "",
   "blendColor": "#071914"
 }
