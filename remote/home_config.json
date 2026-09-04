@@ -1,22 +1,9 @@
 {
-  "enabled": false,
+  "enabled": true,
   "version": 2,
-  "date": "2026-08-28",
-  "startTime": "12:00 AM",
-  "endTime": "11:59 PM",
-  "title": "TEST UPDATE",
-  "message": "GitHub Quick Update Working!",
-  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/main/remote/images/home_background.jpg",
-  "transparency": 50,
-  "messageImage": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/main/remote/images/message.jpg",
-  "showMessage": true,
-  "emergency": {
-  "enabled": false,
-  "version": 3,
-  "date": "2026-08-28",
-  "startTime": "12:00 AM",
-  "endTime": "11:30 PM",
-  "title": "TEST EMERGENCY",
-  "message": "Emergency popup is working."
-}
+  "date": "",
+  "startTime": "",
+  "endTime": "",
+  "background": "https://raw.githubusercontent.com/.../ramadan.jpg",
+  "transparency": 45
 }
