@@ -1,13 +1,13 @@
 {
   "enabled": true,
-  "version": 1,
+  "version": 2,
   "date": "",
   "startDate": "2026-09-04",
   "endDate": "2026-09-04",
   "startTime": "",
   "endTime": "",
-  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/nabavi2.jpg",
+  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madeena.jpg",
   "transparency": 50,
-  "blendMode": "screen",
+  "blendMode": "overlay",
   "blendColor": "#071914"
 }
