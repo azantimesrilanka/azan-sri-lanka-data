@@ -1,11 +1,13 @@
 {
   "enabled": true,
-  "version": 3,
+  "version": 4,
   "date": "",
-  "startDate": "2026-09-04",
-  "endDate": "2026-09-04",
+  "startDate": "",
+  "endDate": "",
   "startTime": "",
   "endTime": "",
-  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/home_background.jpg",
-  "transparency": 10
+  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/ramadan.jpg",
+  "transparency": 55,
+  "blendMode": "multiply",
+  "blendColor": "#071914"
 }
