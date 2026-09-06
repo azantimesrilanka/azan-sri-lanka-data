@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "version": 5,
   "date": "2026-09-06",
   "startDate": "",
@@ -11,3 +11,5 @@
   "blendMode": "overlay",
   "blendColor": "#071914"
 }
+
+
