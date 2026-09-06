@@ -1,21 +1,37 @@
 {
   "enabled": true,
-  "version": 4,
+  "version": 2,
   "startDate": "2026-09-06",
   "endDate": "2026-09-06",
+  "startTime": "",
+  "endTime": "",
 
   "backgrounds": [
-    "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/mecca.jpg",
-    "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madeena.jpg",
-    "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/nabavi.jpg"
+    {
+      "url": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madeena.jpg",
+      "transparency": 50,
+      "blendMode": "overlay",
+      "blendColor": "#071914",
+      "duration": 10000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madina.jpg",
+      "transparency": 50,
+      "blendMode": "overlay",
+      "blendColor": "#071914",
+      "duration": 10000
+    },
+    {
+      "url": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/nabavi.jpg",
+      "transparency": 50,
+      "blendMode": "overlay",
+      "blendColor": "#071914",
+      "duration": 10000
+    }
   ],
 
-  "backgroundSettings": {
-    "duration": 10000,
-    "transition": "fade",
-    "transitionDuration": 2000,
-    "transparency": 50,
-    "blendMode": "overlay",
-    "blendColor": "#071914"
+  "transition": {
+    "type": "fade",
+    "duration": 2000
   }
 }
