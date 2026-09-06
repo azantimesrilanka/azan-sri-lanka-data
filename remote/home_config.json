@@ -1,13 +1,21 @@
 {
   "enabled": true,
-  "version": 2,
-  "date": "",
+  "version": 4,
   "startDate": "2026-09-06",
   "endDate": "2026-09-06",
-  "startTime": "",
-  "endTime": "",
-  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/mecca.jpg",
-  "transparency": 50,
-  "blendMode": "overlay",
-  "blendColor": "#071914"
+
+  "backgrounds": [
+    "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/mecca.jpg",
+    "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madeena.jpg",
+    "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/nabavi.jpg"
+  ],
+
+  "backgroundSettings": {
+    "duration": 10000,
+    "transition": "fade",
+    "transitionDuration": 2000,
+    "transparency": 50,
+    "blendMode": "overlay",
+    "blendColor": "#071914"
+  }
 }
