@@ -1,37 +1,13 @@
 {
   "enabled": true,
-  "version": 2,
-  "startDate": "2026-09-06",
-  "endDate": "2026-09-06",
+  "version": 4,
+  "date": "",
+  "startDate": "",
+  "endDate": "",
   "startTime": "",
   "endTime": "",
-
-  "backgrounds": [
-    {
-      "url": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madeena.jpg",
-      "transparency": 50,
-      "blendMode": "overlay",
-      "blendColor": "#071914",
-      "duration": 10000
-    },
-    {
-      "url": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madina.jpg",
-      "transparency": 50,
-      "blendMode": "overlay",
-      "blendColor": "#071914",
-      "duration": 10000
-    },
-    {
-      "url": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/nabavi.jpg",
-      "transparency": 50,
-      "blendMode": "overlay",
-      "blendColor": "#071914",
-      "duration": 10000
-    }
-  ],
-
-  "transition": {
-    "type": "fade",
-    "duration": 2000
-  }
+  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/madeena.jpg",
+  "transparency": 55,
+  "blendMode": "multiply",
+  "blendColor": "#071914"
 }
