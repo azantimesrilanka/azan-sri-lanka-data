@@ -1,12 +1,12 @@
 {
   "enabled": true,
   "version": 3,
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "startDate": "",
   "endDate": "",
   "startTime": "",
   "endTime": "",
-  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/door.jpg",
+  "background": "https://raw.githubusercontent.com/azantimesrilanka/azan-sri-lanka-data/refs/heads/main/remote/images/ramadan-night-scene-with-mosque-lantern.jpg",
   "transparency": 50,
   "blendMode": "overlay",
   "blendColor": "#071914"
