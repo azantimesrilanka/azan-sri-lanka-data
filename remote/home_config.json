@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 7,
+  "version": 8,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -10,8 +10,8 @@
   "transparency": 20,
   "blendMode": "",
   "blendColor": "#071914",
-
   "ramadanAnimation": {
+    "_help": "enabled=true switches the whole block on. For each effect: enabled, count, transparency (0 visible - 100 invisible), speed (1 normal), size (1 normal), color, layer (front/back/empty), startDate/endDate (yyyy-MM-dd, empty = follow the block dates).",
     "enabled": true,
     "onlyDuringRamadan": false,
     "startDate": "2026-10-05",
@@ -19,22 +19,27 @@
     "layer": "front",
     "speed": 1,
     "transparency": 0,
-
     "twinkleStars": {
-      "enabled": false,
+      "enabled": true,
       "count": 40,
       "transparency": 30,
       "speed": 1,
       "size": 1,
-      "color": "#FFF3C4"
+      "color": "#FFF3C4",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
     },
     "fallingStars": {
-      "enabled": true,
+      "enabled": false,
       "count": 3,
       "transparency": 20,
       "speed": 1,
       "size": 1,
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
     },
     "fallingMoons": {
       "enabled": false,
@@ -42,15 +47,307 @@
       "transparency": 25,
       "speed": 1,
       "size": 1,
-      "color": "#F5D98A"
+      "color": "#F5D98A",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
     },
     "lanterns": {
-      "enabled": true,
+      "enabled": false,
       "count": 4,
       "transparency": 15,
       "speed": 1,
       "size": 1,
-      "color": "#FFB84D"
+      "color": "#FFB84D",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "fireflies": {
+      "enabled": false,
+      "count": 14,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#E6FF7A",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "fireworks": {
+      "enabled": false,
+      "count": 3,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFC95C",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "confetti": {
+      "enabled": false,
+      "count": 40,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FF8A65",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "rain": {
+      "enabled": false,
+      "count": 60,
+      "transparency": 45,
+      "speed": 1,
+      "size": 1,
+      "color": "#BFD9FF",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "petals": {
+      "enabled": false,
+      "count": 14,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFC1D6",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "goldDust": {
+      "enabled": false,
+      "count": 40,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFD66B",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "bubbles": {
+      "enabled": false,
+      "count": 12,
+      "transparency": 35,
+      "speed": 1,
+      "size": 1,
+      "color": "#CFEFFF",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "clouds": {
+      "enabled": false,
+      "count": 4,
+      "transparency": 50,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFFFFF",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "pulsingMoon": {
+      "enabled": false,
+      "count": 1,
+      "transparency": 20,
+      "speed": 1,
+      "size": 1,
+      "color": "#F5D98A",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "sunsetGlow": {
+      "enabled": false,
+      "count": 1,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#FF8A3D",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "aurora": {
+      "enabled": false,
+      "count": 3,
+      "transparency": 40,
+      "speed": 1,
+      "size": 1,
+      "color": "#5CFFB0",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "islamicStars": {
+      "enabled": false,
+      "count": 6,
+      "transparency": 35,
+      "speed": 1,
+      "size": 1,
+      "color": "#D8B45A",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "glitter": {
+      "enabled": false,
+      "count": 25,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFF3C4",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "birds": {
+      "enabled": false,
+      "count": 5,
+      "transparency": 35,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFFFFF",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "balloons": {
+      "enabled": false,
+      "count": 6,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FF6B8A",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "bokeh": {
+      "enabled": false,
+      "count": 10,
+      "transparency": 50,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFE08A",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "ripples": {
+      "enabled": false,
+      "count": 5,
+      "transparency": 40,
+      "speed": 1,
+      "size": 1,
+      "color": "#BFE8FF",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "lightRays": {
+      "enabled": false,
+      "count": 7,
+      "transparency": 40,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFE9A8",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "mosque": {
+      "enabled": false,
+      "count": 1,
+      "transparency": 45,
+      "speed": 1,
+      "size": 1,
+      "color": "#2E8B6A",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "driftingStars": {
+      "enabled": false,
+      "count": 40,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFFFFF",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "waves": {
+      "enabled": false,
+      "count": 3,
+      "transparency": 40,
+      "speed": 1,
+      "size": 1,
+      "color": "#4FC3F7",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "leaves": {
+      "enabled": false,
+      "count": 10,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#8BC34A",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "mist": {
+      "enabled": false,
+      "count": 3,
+      "transparency": 40,
+      "speed": 1,
+      "size": 1,
+      "color": "#DCEBFF",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "orbitingStars": {
+      "enabled": false,
+      "count": 8,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFE9A8",
+      "layer": "back",
+      "startDate": "",
+      "endDate": ""
+    },
+    "bunting": {
+      "enabled": false,
+      "count": 14,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#FF6B8A",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "risingCrescents": {
+      "enabled": false,
+      "count": 6,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#F5D98A",
+      "layer": "",
+      "startDate": "",
+      "endDate": ""
     }
   }
 }
