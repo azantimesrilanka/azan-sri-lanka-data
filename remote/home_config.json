@@ -13,20 +13,20 @@
 }
 
 {
-  "enabled": false,
+  "enabled": true,
   "version": 6,
 
   "ramadanAnimation": {
     "enabled": true,
-    "onlyDuringRamadan": true,
-    "startDate": "",
-    "endDate": "",
+    "onlyDuringRamadan": false,
+    "startDate": "2026-10-05",
+    "endDate": "2026-10-15",
     "layer": "front",
     "speed": 1,
     "transparency": 0,
 
     "twinkleStars": {
-      "enabled": false,
+      "enabled": true,
       "count": 40,
       "transparency": 30,
       "speed": 1,
