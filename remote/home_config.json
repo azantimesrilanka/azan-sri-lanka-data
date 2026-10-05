@@ -21,7 +21,7 @@
     "transparency": 0,
 
     "twinkleStars": {
-      "enabled": true,
+      "enabled": false,
       "count": 40,
       "transparency": 30,
       "speed": 1,
@@ -29,7 +29,7 @@
       "color": "#FFF3C4"
     },
     "fallingStars": {
-      "enabled": false,
+      "enabled": true,
       "count": 3,
       "transparency": 20,
       "speed": 1,
