@@ -37,7 +37,7 @@
       "color": "#FFFFFF"
     },
     "fallingMoons": {
-      "enabled": true,
+      "enabled": false,
       "count": 5,
       "transparency": 25,
       "speed": 1,
@@ -45,7 +45,7 @@
       "color": "#F5D98A"
     },
     "lanterns": {
-      "enabled": false,
+      "enabled": true,
       "count": 4,
       "transparency": 15,
       "speed": 1,
