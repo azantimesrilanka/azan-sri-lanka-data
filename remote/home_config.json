@@ -29,7 +29,7 @@
       "color": "#FFF3C4"
     },
     "fallingStars": {
-      "enabled": false,
+      "enabled": true,
       "count": 3,
       "transparency": 20,
       "speed": 1,
