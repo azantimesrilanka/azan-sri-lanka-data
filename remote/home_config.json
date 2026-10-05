@@ -12,4 +12,51 @@
   "blendColor": "#071914"
 }
 
+{
+  "enabled": false,
+  "version": 6,
+
+  "ramadanAnimation": {
+    "enabled": true,
+    "onlyDuringRamadan": true,
+    "startDate": "",
+    "endDate": "",
+    "layer": "front",
+    "speed": 1,
+    "transparency": 0,
+
+    "twinkleStars": {
+      "enabled": false,
+      "count": 40,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFF3C4"
+    },
+    "fallingStars": {
+      "enabled": false,
+      "count": 3,
+      "transparency": 20,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFFFFF"
+    },
+    "fallingMoons": {
+      "enabled": false,
+      "count": 5,
+      "transparency": 25,
+      "speed": 1,
+      "size": 1,
+      "color": "#F5D98A"
+    },
+    "lanterns": {
+      "enabled": false,
+      "count": 4,
+      "transparency": 15,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFB84D"
+    }
+  }
+}
 
