@@ -65,7 +65,7 @@
       "endDate": ""
     },
     "fireflies": {
-      "enabled": true,
+      "enabled": false,
       "count": 14,
       "transparency": 30,
       "speed": 1,
@@ -76,7 +76,7 @@
       "endDate": ""
     },
     "fireworks": {
-      "enabled": false,
+      "enabled": true,
       "count": 3,
       "transparency": 25,
       "speed": 1,
