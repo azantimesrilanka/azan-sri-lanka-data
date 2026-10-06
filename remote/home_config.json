@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 21,
+  "version": 22,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -63,7 +63,7 @@
     "fireflies": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#E6FF7A","direction":"","layer":"","startDate":"","endDate":""},
     "ripples": {"enabled":true,"count":5,"transparency":40,"speed":1,"size":1,"color":"#BFE8FF","direction":"","layer":"","startDate":"","endDate":""},
     "glitter": {"enabled":false,"count":25,"transparency":25,"speed":1,"size":1,"color":"#FFF3C4","direction":"","layer":"","startDate":"","endDate":""},
-    "sparklers": {"enabled":true,"count":3,"transparency":20,"speed":1,"size":1,"color":"#FFD27A","direction":"","layer":"","startDate":"","endDate":""},
+    "sparklers": {"enabled":false,"count":3,"transparency":20,"speed":1,"size":1,"color":"#FFD27A","direction":"","layer":"","startDate":"","endDate":""},
     "twinkleStars": {"enabled":false,"count":40,"transparency":30,"speed":1,"size":1,"color":"#FFF3C4","direction":"","layer":"","startDate":"","endDate":""},
     "fallingStars": {"enabled":false,"count":3,"transparency":20,"speed":1,"size":1,"color":"#FFFFFF","direction":"","layer":"","startDate":"","endDate":""},
     "comet": {"enabled":false,"count":1,"transparency":20,"speed":1,"size":1,"color":"#BFE3FF","direction":"","layer":"","startDate":"","endDate":""},
