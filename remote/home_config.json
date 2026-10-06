@@ -98,7 +98,7 @@
       "endDate": ""
     },
     "rain": {
-      "enabled": true,
+      "enabled": false,
       "count": 60,
       "transparency": 45,
       "speed": 1,
