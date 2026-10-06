@@ -21,7 +21,7 @@
     "speed": 1,
     "transparency": 0,
     "twinkleStars": {
-      "enabled": true,
+      "enabled": false,
       "count": 40,
       "transparency": 30,
       "speed": 1,
@@ -65,7 +65,7 @@
       "endDate": ""
     },
     "fireflies": {
-      "enabled": false,
+      "enabled": true,
       "count": 14,
       "transparency": 30,
       "speed": 1,
