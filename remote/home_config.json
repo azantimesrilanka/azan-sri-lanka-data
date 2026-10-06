@@ -120,7 +120,7 @@
       "endDate": ""
     },
     "goldDust": {
-      "enabled": false,
+      "enabled": true,
       "count": 40,
       "transparency": 25,
       "speed": 1,
