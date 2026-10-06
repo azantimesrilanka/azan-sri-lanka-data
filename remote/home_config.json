@@ -87,7 +87,7 @@
       "endDate": ""
     },
     "confetti": {
-      "enabled": true,
+      "enabled": false,
       "count": 40,
       "transparency": 25,
       "speed": 1,
@@ -98,7 +98,7 @@
       "endDate": ""
     },
     "rain": {
-      "enabled": false,
+      "enabled": true,
       "count": 60,
       "transparency": 45,
       "speed": 1,
