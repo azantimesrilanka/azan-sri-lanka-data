@@ -14,7 +14,7 @@
   "ramadanAnimation": {
     "_help": "enabled=true switches the whole block on. For each effect: enabled, count, transparency (0 visible - 100 invisible), speed (1 normal), size (1 normal), color, layer (front/back/empty), startDate/endDate (yyyy-MM-dd, empty = follow the block dates).",
     "enabled": true,
-    "onlyDuringRamadan": true,
+    "onlyDuringRamadan": false,
     "startDate": "",
     "endDate": "",
     "layer": "front",
@@ -142,7 +142,7 @@
       "endDate": ""
     },
     "clouds": {
-      "enabled": false,
+      "enabled": true,
       "count": 4,
       "transparency": 50,
       "speed": 1,
