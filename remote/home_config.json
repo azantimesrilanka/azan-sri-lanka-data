@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 25,
+  "version": 26,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -49,8 +49,8 @@
     "balloons": {"enabled":false,"count":6,"transparency":25,"speed":1,"size":1,"color":"#FF6B8A","direction":"","layer":"","startDate":"","endDate":""},
     "bunting": {"enabled":false,"count":14,"transparency":25,"speed":1,"size":1,"color":"#FF6B8A","direction":"","layer":"","startDate":"","endDate":""},
     "crescentBunting": {"enabled":false,"count":9,"transparency":20,"speed":1,"size":1,"color":"#F5D98A","direction":"","layer":"","startDate":"","endDate":""},
-    "streamers": {"enabled":false,"count":8,"transparency":25,"speed":1,"size":1,"color":"#FF8A65","direction":"","layer":"","startDate":"","endDate":""},
-    "birds": {"enabled":true,"count":5,"transparency":35,"speed":1,"size":1,"color":"#FFFFFF","direction":"","layer":"","startDate":"","endDate":""},
+    "streamers": {"enabled":true,"count":8,"transparency":25,"speed":1,"size":1,"color":"#FF8A65","direction":"","layer":"","startDate":"","endDate":""},
+    "birds": {"enabled":false,"count":5,"transparency":35,"speed":1,"size":1,"color":"#FFFFFF","direction":"","layer":"","startDate":"","endDate":""},
     "butterflies": {"enabled":false,"count":5,"transparency":20,"speed":1,"size":1,"color":"#FFA6C9","direction":"","layer":"","startDate":"","endDate":""},
     "bubbles": {"enabled":false,"count":12,"transparency":35,"speed":1,"size":1,"color":"#CFEFFF","direction":"","layer":"","startDate":"","endDate":""},
     "petals": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#FFC1D6","direction":"","layer":"","startDate":"","endDate":""},
