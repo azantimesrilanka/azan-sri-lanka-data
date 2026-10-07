@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 37,
+  "version": 38,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -38,8 +38,8 @@
     "waves": {"enabled":false,"count":3,"transparency":40,"speed":1,"size":1,"color":"#4FC3F7","direction":"","layer":"back","startDate":"","endDate":""},
     "waterLanterns": {"enabled":false,"count":4,"transparency":20,"speed":1,"size":1,"color":"#FFB84D","direction":"","layer":"back","startDate":"","endDate":""},
     "mosque": {"enabled":false,"count":1,"transparency":45,"speed":1,"size":1,"color":"#2E8B6A","direction":"","layer":"back","startDate":"","endDate":""},
-    "bokeh": {"enabled":false,"count":10,"transparency":50,"speed":1,"size":1,"color":"#FFE08A","direction":"","layer":"back","startDate":"","endDate":""},
-    "driftingStars": {"enabled":true,"count":40,"transparency":30,"speed":1,"size":1,"color":"#FFFFFF","direction":"","layer":"back","startDate":"","endDate":""},
+    "bokeh": {"enabled":true,"count":10,"transparency":50,"speed":1,"size":1,"color":"#FFE08A","direction":"","layer":"back","startDate":"","endDate":""},
+    "driftingStars": {"enabled":false,"count":40,"transparency":30,"speed":1,"size":1,"color":"#FFFFFF","direction":"","layer":"back","startDate":"","endDate":""},
     "orbitingStars": {"enabled":false,"count":8,"transparency":25,"speed":1,"size":1,"color":"#FFE9A8","direction":"","layer":"back","startDate":"","endDate":""},
     "tasbihBeads": {"enabled":false,"count":33,"transparency":30,"speed":1,"size":1,"color":"#E9CC82","direction":"","layer":"back","startDate":"","endDate":""},
     "lankaRibbons": {"enabled":false,"count":4,"transparency":35,"speed":1,"size":1,"color":"#FFBE29","direction":"","layer":"back","startDate":"","endDate":""},
