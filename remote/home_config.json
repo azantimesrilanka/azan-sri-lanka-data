@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 11,
+  "version": 12,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -75,7 +75,7 @@
     "ripples": {"enabled":false,"count":5,"transparency":40,"speed":1,"size":1,"color":"#BFE8FF","direction":"","layer":"","startDate":"","endDate":""},
     "glitter": {"enabled":false,"count":25,"transparency":25,"speed":1,"size":1,"color":"#FFF3C4","direction":"","layer":"","startDate":"","endDate":""},
     "sparklers": {"enabled":false,"count":3,"transparency":20,"speed":1,"size":1,"color":"#FFD27A","direction":"","layer":"","startDate":"","endDate":""},
-    "twinkleStars": {"enabled":true,"count":40,"transparency":30,"speed":1,"size":1,"color":"#FFF3C4","direction":"","layer":"","startDate":"","endDate":""},
+    "twinkleStars": {"enabled":false,"count":40,"transparency":30,"speed":0.7,"size":1,"color":"#FFF3C4","direction":"","layer":"","startDate":"","endDate":""},
     "fallingStars": {"enabled":false,"count":3,"transparency":20,"speed":1,"size":1,"color":"#FFFFFF","direction":"","layer":"","startDate":"","endDate":""},
     "comet": {"enabled":false,"count":1,"transparency":20,"speed":1,"size":1,"color":"#BFE3FF","direction":"","layer":"","startDate":"","endDate":""},
     "lightning": {"enabled":false,"count":2,"transparency":55,"speed":1,"size":1,"color":"#E8F0FF","direction":"","layer":"","startDate":"","endDate":""},
