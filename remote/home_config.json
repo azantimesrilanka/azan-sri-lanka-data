@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 28,
+  "version": 29,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -181,7 +181,7 @@
     "swell_ring": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#BFE8FF","direction":""},
     "swell_octagram": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#D8B45A","direction":""},
     "swell_hexagon": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#B39DFF","direction":""},
-    "flagWave": {"enabled":false,"count":1,"transparency":20,"speed":1,"size":1,"color":"#FFBE29","direction":""},
+    "flagWave": {"enabled":true,"count":1,"transparency":20,"speed":1,"size":1,"color":"#FFBE29","direction":""},
     "flyingFlags": {"enabled":false,"count":7,"transparency":20,"speed":1,"size":1,"color":"#FFBE29","direction":""},
     "starRain": {"enabled":false,"count":16,"transparency":20,"speed":1,"size":1,"color":"#FFC83D","direction":""},
     "desertDunes": {"enabled":false,"count":3,"transparency":20,"speed":1,"size":1,"color":"#D9A55B","direction":""},
