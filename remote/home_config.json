@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "version": 50,
+  "enabled": true,
+  "version": 51,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -322,6 +322,8 @@
   "azanPage": {
     "enabled": true,
     "dim": 40,
+    "blurEnabled": false,
+    "blurAmount": 8,
     "pages": {
       "sahoor": {"url":"https://i.postimg.cc/02v3yrHc/Sahoor.jpg"},
       "fajr": {"url":"https://i.postimg.cc/CMkX0bJn/Fajr.jpg"},
