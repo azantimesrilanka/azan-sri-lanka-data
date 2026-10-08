@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 52,
+  "version": 53,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -334,5 +334,5 @@
       "isha": {"url":"https://i.postimg.cc/xTQ71qFC/Isha.jpg"}
     }
   },
-  "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":true,"blurAmount":11}
+  "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":false,"blurAmount":1}
 }
