@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 36,
+  "version": 37,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -10,7 +10,7 @@
   "transparency": 20,
   "blendMode": "",
   "blendColor": "#071914",
-  "theme": {"enabled":true,"color":"#0C2E4A"},
+  "theme": {"enabled":true,"color":"#5B1FA1"},
   "slideshow": {
     "enabled": false,
     "startDate": "",
