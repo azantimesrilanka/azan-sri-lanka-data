@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 41,
+  "version": 42,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -314,5 +314,18 @@
     "drift_cloud": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#F4F8FF","direction":""},
     "drift_sun": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#FFD25E","direction":""},
     "drift_moonstar": {"enabled":false,"count":14,"transparency":30,"speed":1,"size":1,"color":"#F5D98A","direction":""}
+  },
+  "azanPage": {
+    "enabled": true,
+    "dim": 40,
+    "pages": {
+      "sahoor": {"url":"https://i.postimg.cc/02v3yrHc/Sahoor.jpg"},
+      "fajr": {"url":"https://i.postimg.cc/CMkX0bJn/Fajr.jpg"},
+      "sunrise": {"url":"https://i.postimg.cc/SN45xjt1/Sunrise.jpg"},
+      "luhar": {"url":"https://i.postimg.cc/L6S78h0n/Luhar.jpg"},
+      "asr": {"url":"https://i.postimg.cc/4NGMxnFn/Asr.jpg"},
+      "maghrib": {"url":"https://i.postimg.cc/65KSpT1r/Maghrib.jpg"},
+      "isha": {"url":"https://i.postimg.cc/xTQ71qFC/Isha.jpg"}
+    }
   }
 }
