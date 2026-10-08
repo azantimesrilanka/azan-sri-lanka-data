@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 56,
+  "version": 57,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -331,7 +331,8 @@
       "luhar": {"url":"https://i.postimg.cc/L6S78h0n/Luhar.jpg"},
       "asr": {"url":"https://i.postimg.cc/4NGMxnFn/Asr.jpg"},
       "maghrib": {"url":"https://i.postimg.cc/65KSpT1r/Maghrib.jpg"},
-      "isha": {"url":"https://i.postimg.cc/xTQ71qFC/Isha.jpg"}
+      "isha": {"url":"https://i.postimg.cc/xTQ71qFC/Isha.jpg"},
+      "tahajjud": {"url":"https://i.postimg.cc/gjL8phn1/Tahajjuth.jpg"}
     }
   },
   "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":false,"blurAmount":1}
