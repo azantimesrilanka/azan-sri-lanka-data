@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "version": 51,
+  "version": 52,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -333,5 +333,6 @@
       "maghrib": {"url":"https://i.postimg.cc/65KSpT1r/Maghrib.jpg"},
       "isha": {"url":"https://i.postimg.cc/xTQ71qFC/Isha.jpg"}
     }
-  }
+  },
+  "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":true,"blurAmount":11}
 }
