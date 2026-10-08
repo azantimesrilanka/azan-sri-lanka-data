@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 47,
+  "version": 48,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -16,7 +16,7 @@
     "startDate": "2026-10-01",
     "endDate": "2026-10-30",
     "intervalSeconds": 8,
-    "transition": "fade",
+    "transition": "random",
     "transitionMs": 900,
     "shuffle": true,
     "images": [
