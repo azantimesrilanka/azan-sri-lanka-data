@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 71,
+  "version": 72,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -12,12 +12,12 @@
   "blendColor": "#071914",
   "theme": {"enabled":false,"color":"#28210B"},
   "slideshow": {
-    "enabled": true,
+    "enabled": false,
     "startDate": "2026-10-01",
     "endDate": "2026-10-30",
     "intervalSeconds": 8,
     "transition": "fade",
-    "transitionMs": 900,
+    "transitionMs": 950,
     "shuffle": false,
     "images": [
       {"url":"https://i.postimg.cc/ZnnKzc2f/moon.png","enabled":true,"transition":"","durationSeconds":0,"transparency":null,"blendMode":"","blendColor":""},
