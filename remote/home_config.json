@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 77,
+  "version": 78,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -350,6 +350,35 @@
       "dailyTo": "",
       "startDate": "2026-10-01",
       "endDate": "2026-10-30"
+    }
+  },
+  "timedWallpaper": {
+    "enabled": false,
+    "images": [],
+    "order": "sequence",
+    "transition": "fade",
+    "transitionMs": 1200,
+    "transparency": 0,
+    "schedule": {
+      "months": 0,
+      "days": 0,
+      "hours": 1,
+      "minutes": 0,
+      "seconds": 0,
+      "weekdays": [],
+      "dailyFrom": "",
+      "dailyTo": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    "style": {
+      "fit": "cover",
+      "alignment": "bottom",
+      "blurEnabled": false,
+      "blurAmount": 8,
+      "blendMode": "none",
+      "blendStrength": 50,
+      "blendSource": "theme"
     }
   }
 }
