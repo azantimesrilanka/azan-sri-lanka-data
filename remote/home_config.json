@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 75,
+  "version": 76,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -336,7 +336,7 @@
   },
   "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":false,"blurAmount":1},
   "colorChanger": {
-    "enabled": true,
+    "enabled": false,
     "colors": ["#250E0E", "#30550C", "#0E1425"],
     "order": "sequence",
     "schedule": {
