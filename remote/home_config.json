@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 70,
+  "version": 71,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -21,8 +21,7 @@
     "shuffle": false,
     "images": [
       {"url":"https://i.postimg.cc/ZnnKzc2f/moon.png","enabled":true,"transition":"","durationSeconds":0,"transparency":null,"blendMode":"","blendColor":""},
-      {"url":"https://i.postimg.cc/vmSGL9cT/ramadan-night-scene-with-mosque-lantern.jpg","enabled":true,"transition":"","durationSeconds":0,"transparency":null,"blendMode":"","blendColor":""},
-      {"url":"https://i.postimg.cc/ZnnKzc2f/moon.png","enabled":true,"transition":"","durationSeconds":0,"transparency":null,"blendMode":"","blendColor":""}
+      {"url":"https://i.postimg.cc/vmSGL9cT/ramadan-night-scene-with-mosque-lantern.jpg","enabled":true,"transition":"","durationSeconds":0,"transparency":null,"blendMode":"","blendColor":""}
     ]
   },
   "ramadanAnimation": {
