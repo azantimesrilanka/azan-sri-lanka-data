@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 88,
+  "version": 89,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -398,8 +398,8 @@
     }
   },
   "cardStyle": {
-    "enabled": true,
-    "mode": "custom",
+    "enabled": false,
+    "mode": "app",
     "fill": "gradient",
     "colors": ["#0F2E24", "#071914"],
     "transparency": 0,
