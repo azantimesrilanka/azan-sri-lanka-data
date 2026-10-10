@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 84,
+  "version": 85,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -10,7 +10,7 @@
   "transparency": 20,
   "blendMode": "",
   "blendColor": "#071914",
-  "theme": {"enabled":true,"color":"#62230E","followWallpaper":false},
+  "theme": {"enabled":false,"color":"#62230E","followWallpaper":false},
   "slideshow": {
     "enabled": false,
     "startDate": "2026-10-01",
@@ -382,7 +382,7 @@
     }
   },
   "backgroundGradient": {
-    "enabled": false,
+    "enabled": true,
     "colors": ["#0F2E24", "#071914"],
     "style": {
       "type": "radial",
@@ -400,14 +400,14 @@
   "cardStyle": {
     "enabled": true,
     "mode": "custom",
-    "fill": "solid",
-    "colors": ["#6B360A", "#0C2921"],
+    "fill": "gradient",
+    "colors": ["#0F2E24", "#071914"],
     "transparency": 0,
-    "blendMode": "none",
+    "blendMode": "multiply",
     "blendStrength": 50,
     "blendColor": "",
     "style": {
-      "type": "linear",
+      "type": "radial",
       "direction": "top-bottom",
       "center": "center",
       "swap": false,
