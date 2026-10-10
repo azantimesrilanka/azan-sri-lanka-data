@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 82,
+  "version": 83,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -379,6 +379,22 @@
       "blendMode": "none",
       "blendStrength": 50,
       "blendSource": "theme"
+    }
+  },
+  "backgroundGradient": {
+    "enabled": true,
+    "colors": ["#0F2E24", "#071914"],
+    "style": {
+      "type": "radial",
+      "direction": "top-bottom",
+      "center": "center",
+      "swap": false,
+      "radius": 1,
+      "balance": 50,
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 0,
+      "cardsFollow": false
     }
   }
 }
