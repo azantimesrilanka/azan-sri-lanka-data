@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 86,
+  "version": 87,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -403,19 +403,19 @@
     "fill": "gradient",
     "colors": ["#0F2E24", "#071914"],
     "transparency": 0,
-    "blendMode": "multiply",
-    "blendStrength": 50,
+    "blendMode": "none",
+    "blendStrength": 15,
     "blendColor": "",
     "style": {
       "type": "radial",
       "direction": "top-bottom",
       "center": "center",
       "swap": false,
-      "radius": 1,
+      "radius": 0.65,
       "balance": 70,
-      "hue": 0,
-      "saturation": 0,
-      "lightness": 0,
+      "hue": -175,
+      "saturation": -65,
+      "lightness": -30,
       "cardsFollow": false
     }
   }
