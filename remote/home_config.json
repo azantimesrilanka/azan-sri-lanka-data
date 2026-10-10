@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 83,
+  "version": 84,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -334,7 +334,7 @@
       "tahajjud": {"url":"https://i.postimg.cc/gjL8phn1/Tahajjuth.jpg"}
     }
   },
-  "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":false,"blurAmount":1},
+  "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":false,"blurAmount":1,"blendMode":"none","blendStrength":50,"blendSource":"theme"},
   "colorChanger": {
     "enabled": false,
     "colors": ["#250E0E", "#30550C", "#0E1425"],
@@ -382,10 +382,32 @@
     }
   },
   "backgroundGradient": {
-    "enabled": true,
+    "enabled": false,
     "colors": ["#0F2E24", "#071914"],
     "style": {
       "type": "radial",
+      "direction": "top-bottom",
+      "center": "center",
+      "swap": false,
+      "radius": 1,
+      "balance": 50,
+      "hue": 0,
+      "saturation": 0,
+      "lightness": 0,
+      "cardsFollow": false
+    }
+  },
+  "cardStyle": {
+    "enabled": true,
+    "mode": "custom",
+    "fill": "solid",
+    "colors": ["#6B360A", "#0C2921"],
+    "transparency": 0,
+    "blendMode": "none",
+    "blendStrength": 50,
+    "blendColor": "",
+    "style": {
+      "type": "linear",
       "direction": "top-bottom",
       "center": "center",
       "swap": false,
