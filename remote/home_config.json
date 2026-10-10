@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 85,
+  "version": 86,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -412,7 +412,7 @@
       "center": "center",
       "swap": false,
       "radius": 1,
-      "balance": 50,
+      "balance": 70,
       "hue": 0,
       "saturation": 0,
       "lightness": 0,
