@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 100,
+  "version": 101,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -26,7 +26,7 @@
   },
   "ramadanAnimation": {
     "_help": "Block: enabled switches EVERYTHING on/off. Dates: if startDate/endDate are set they are used instead of onlyDuringRamadan. Each effect: enabled, count, transparency (0 clear - 100 invisible), speed, size, color, layer (front/back/empty), startDate/endDate (own dates, empty = follow the block), direction (where particles START: top/bottom/left/right, empty = default; works on falling/rising effects). texts: your own words for calligraphy / eidWords. Generic effects are named <motion>_<shape> (see ANIMATIONS_GUIDE.md).",
-    "enabled": false,
+    "enabled": true,
     "onlyDuringRamadan": false,
     "startDate": "2026-10-05",
     "endDate": "2026-10-15",
