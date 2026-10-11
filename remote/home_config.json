@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 91,
+  "version": 92,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -58,7 +58,7 @@
     "tasbihBeads": {"enabled":false,"count":33,"transparency":30,"speed":1,"size":1,"color":"#E9CC82","direction":"","layer":"back","startDate":"","endDate":""},
     "lankaRibbons": {"enabled":false,"count":4,"transparency":35,"speed":1,"size":1,"color":"#FFBE29","direction":"","layer":"back","startDate":"","endDate":""},
     "lanterns": {"enabled":false,"count":4,"transparency":15,"speed":1,"size":1,"color":"#FFB84D","direction":"","layer":"","startDate":"","endDate":""},
-    "fallingMoons": {"enabled":false,"count":5,"transparency":25,"speed":1,"size":1,"color":"#F5D98A","direction":"","layer":"","startDate":"","endDate":""},
+    "fallingMoons": {"enabled":true,"count":5,"transparency":25,"speed":1,"size":1,"color":"#F5D98A","direction":"","layer":"","startDate":"","endDate":""},
     "risingCrescents": {"enabled":false,"count":6,"transparency":30,"speed":1,"size":1,"color":"#F5D98A","direction":"","layer":"","startDate":"","endDate":""},
     "balloons": {"enabled":false,"count":6,"transparency":25,"speed":1,"size":1,"color":"#FF6B8A","direction":"","layer":"","startDate":"","endDate":""},
     "bunting": {"enabled":false,"count":14,"transparency":25,"speed":1,"size":1,"color":"#FF6B8A","direction":"","layer":"","startDate":"","endDate":""},
