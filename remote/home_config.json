@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "version": 89,
+  "version": 90,
   "date": "",
   "startDate": "2026-10-01",
   "endDate": "2026-10-30",
@@ -10,7 +10,7 @@
   "transparency": 20,
   "blendMode": "",
   "blendColor": "#071914",
-  "theme": {"enabled":false,"color":"#0D271F","followWallpaper":false},
+  "theme": {"enabled":true,"color":"#4A1620","followWallpaper":false},
   "slideshow": {
     "enabled": false,
     "startDate": "2026-10-01",
@@ -331,7 +331,10 @@
       "asr": {"url":"https://i.postimg.cc/4NGMxnFn/Asr.jpg"},
       "maghrib": {"url":"https://i.postimg.cc/65KSpT1r/Maghrib.jpg"},
       "isha": {"url":"https://i.postimg.cc/xTQ71qFC/Isha.jpg"},
-      "tahajjud": {"url":"https://i.postimg.cc/gjL8phn1/Tahajjuth.jpg"}
+      "tahajjud": {"url":"https://i.postimg.cc/gjL8phn1/Tahajjuth.jpg"},
+      "ishraq": {"url":""},
+      "duha": {"url":""},
+      "witr": {"url":""}
     }
   },
   "wallpaperStyle": {"fit":"cover","alignment":"bottom","blurEnabled":false,"blurAmount":1,"blendMode":"none","blendStrength":50,"blendSource":"theme"},
@@ -382,7 +385,7 @@
     }
   },
   "backgroundGradient": {
-    "enabled": true,
+    "enabled": false,
     "colors": ["#0F2E24", "#071914"],
     "style": {
       "type": "radial",
