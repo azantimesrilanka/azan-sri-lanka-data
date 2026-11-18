@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "theme": {
+    "ramadanTheme": true,
+    "cardOpacity": 4.5,
+    "patternOpacity": 6,
+    "normal": {
+      "bg1": "#041a15",
+      "bg2": "#06231c",
+      "bg3": "#0b3a2e",
+      "accent": "#e7c37a",
+      "accent2": "#c9a14f",
+      "glow": "#34d399",
+      "text": "#eef6f2",
+      "muted": "#9cb8ad"
+    },
+    "ramadan": {
+      "bg1": "#0d0a24",
+      "bg2": "#160f3a",
+      "bg3": "#1f1650",
+      "accent": "#d9b8ff",
+      "accent2": "#a77bf0",
+      "glow": "#e7c37a",
+      "text": "#f1ecff",
+      "muted": "#b3a8d6"
+    }
+  },
+  "animation": {
+    "enabled": true,
+    "onlyDuringRamadan": false,
+    "startDate": "",
+    "endDate": "",
+    "layer": "back",
+    "speed": 1,
+    "transparency": 0,
+    "twinkleStars": {
+      "enabled": false,
+      "count": 45,
+      "transparency": 30,
+      "speed": 0.7,
+      "size": 1,
+      "color": "#FFF3C4"
+    },
+    "fallingStars": {
+      "enabled": false,
+      "count": 3,
+      "transparency": 15,
+      "speed": 1,
+      "size": 1,
+      "color": "#FFFFFF"
+    },
+    "fallingMoons": {
+      "enabled": false,
+      "count": 5,
+      "transparency": 30,
+      "speed": 1,
+      "size": 1,
+      "color": "#F5D98A"
+    }
+  }
+}
