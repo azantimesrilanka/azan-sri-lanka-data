@@ -1,9 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
-    "pattern": "stars8",
+    "pattern": "circles",
     "patternOn": "page",
     "patternOpacity": 6,
     "normal": {
@@ -78,5 +78,8 @@
     "azanMinutes": 10,
     "configMinutes": 10
   },
-  "cardFx": {}
+  "cardFx": {},
+  "admin": {
+    "appUrl": "https://azantime.azantimesrilanka.workers.dev/"
+  }
 }
