@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
@@ -36,7 +36,7 @@
     "speed": 1,
     "transparency": 0,
     "twinkleStars": {
-      "enabled": true,
+      "enabled": false,
       "count": 45,
       "transparency": 30,
       "speed": 0.7,
@@ -78,7 +78,14 @@
     "azanMinutes": 10,
     "configMinutes": 10
   },
-  "cardFx": {},
+  "cardFx": {
+    "shine": {
+      "enabled": false,
+      "speed": 1,
+      "strength": 70,
+      "color": ""
+    }
+  },
   "admin": {
     "appUrl": "https://azantime.azantimesrilanka.workers.dev/"
   }
