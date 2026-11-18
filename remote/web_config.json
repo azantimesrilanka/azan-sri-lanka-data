@@ -1,8 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
+    "pattern": "stars8",
+    "patternOn": "page",
     "patternOpacity": 6,
     "normal": {
       "bg1": "#041a15",
@@ -34,7 +36,7 @@
     "speed": 1,
     "transparency": 0,
     "twinkleStars": {
-      "enabled": false,
+      "enabled": true,
       "count": 45,
       "transparency": 30,
       "speed": 0.7,
@@ -57,5 +59,24 @@
       "size": 1,
       "color": "#F5D98A"
     }
-  }
+  },
+  "display": {
+    "timeFormat": "12",
+    "leadingZero": true,
+    "nextIncludesSunrise": true,
+    "nowMinutes": {
+      "suhoor": 5,
+      "fajr": 5,
+      "sunrise": 5,
+      "luhar": 5,
+      "asr": 5,
+      "maghrib": 5,
+      "isha": 5
+    }
+  },
+  "update": {
+    "azanMinutes": 10,
+    "configMinutes": 10
+  },
+  "cardFx": {}
 }
