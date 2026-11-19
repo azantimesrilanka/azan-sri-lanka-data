@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
@@ -103,6 +103,24 @@
   "analytics": {
     "cfToken": "9e135fdab27d4fd781bef162b3cdb286"
   },
-  "announcements": [],
+  "announcements": [
+    {
+      "id": "kxdgonp",
+      "enabled": true,
+      "icon": "📢",
+      "title": {
+        "en": "Welcome to Azan App",
+        "si": "",
+        "ta": ""
+      },
+      "message": {
+        "en": "Welcome to Azan App",
+        "si": "",
+        "ta": ""
+      },
+      "start": "",
+      "end": ""
+    }
+  ],
   "schedules": []
 }
