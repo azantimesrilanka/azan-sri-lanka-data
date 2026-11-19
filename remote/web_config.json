@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
@@ -64,6 +64,7 @@
     "timeFormat": "12",
     "leadingZero": true,
     "nextIncludesSunrise": true,
+    "hijriAtMaghrib": false,
     "dayChange": "isha",
     "dayChangeMinutes": 30,
     "nowMinutes": {
@@ -90,5 +91,18 @@
   },
   "admin": {
     "appUrl": "https://azantime.azantimesrilanka.workers.dev/"
-  }
+  },
+  "popups": {
+    "announceSeconds": 10,
+    "ramadan": {
+      "enabled": true,
+      "seconds": 10,
+      "fromShaban": true
+    }
+  },
+  "analytics": {
+    "cfToken": "9e135fdab27d4fd781bef162b3cdb286"
+  },
+  "announcements": [],
+  "schedules": []
 }
