@@ -1,20 +1,20 @@
 {
-  "version": 5,
+  "version": 6,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
-    "pattern": "circles",
+    "pattern": "girih",
     "patternOn": "page",
     "patternOpacity": 6,
     "normal": {
-      "bg1": "#061616",
-      "bg2": "#0a2424",
-      "bg3": "#123535",
-      "accent": "#6fe0dc",
-      "accent2": "#59b3b0",
-      "glow": "#e7c37a",
-      "text": "#eef6f6",
-      "muted": "#9fbcbc"
+      "bg1": "#041a15",
+      "bg2": "#06231c",
+      "bg3": "#0b3a2e",
+      "accent": "#e7c37a",
+      "accent2": "#c9a14f",
+      "glow": "#34d399",
+      "text": "#eef6f2",
+      "muted": "#9cb8ad"
     },
     "ramadan": {
       "bg1": "#0d0a24",
