@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
@@ -120,6 +120,23 @@
       },
       "start": "",
       "end": ""
+    },
+    {
+      "id": "j9x134k",
+      "enabled": true,
+      "icon": "📢",
+      "title": {
+        "en": "Jumma Mubarak",
+        "si": "",
+        "ta": ""
+      },
+      "message": {
+        "en": "Jumma Mubarak",
+        "si": "",
+        "ta": ""
+      },
+      "start": "2026-11-20",
+      "end": "2026-11-20"
     }
   ],
   "schedules": []
