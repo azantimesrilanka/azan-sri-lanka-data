@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "theme": {
     "ramadanTheme": true,
     "cardOpacity": 4.5,
@@ -141,14 +141,14 @@
       "enabled": true,
       "icon": "📢",
       "title": {
-        "en": "Welcome to Azan App",
-        "si": "",
-        "ta": ""
+        "en": "Welcome to Azan Web Page",
+        "si": "අසාzන් වෙබ් පිටුවට සාදරයෙන් පිළිගනිමු.",
+        "ta": "அஸான் இணையப் பக்கத்திற்கு உங்களை வரவேற்கிறோம்."
       },
       "message": {
-        "en": "Welcome to Azan App",
-        "si": "",
-        "ta": ""
+        "en": "Welcome to Azan Web App",
+        "si": "අසාzන් වෙබ් පිටුවට සාදරයෙන් පිළිගනිමු.",
+        "ta": "அஸான் இணையப் பக்கத்திற்கு உங்களை வரவேற்கிறோம்."
       },
       "start": "",
       "end": ""
